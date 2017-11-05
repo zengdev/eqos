@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
-![](https://github.com/zhaojh329/image/blob/master/eqos_zh.png)
+![](https://github.com/lwxlwxlwx/blob/master/eqos_zh.png)
 
 # 特性
 * 支持基于IP地址限速
@@ -11,7 +11,7 @@
 
 # 安装到OpenWRT/LEDE
 	
-	git clone https://github.com/zhaojh329/eqos.git
+	git clone https://github.com/lwxlwxlwx/eqos.git
 	cp -r eqos LEDE_DIR/package/eqos
 	
 	cd LEDE_DIR
